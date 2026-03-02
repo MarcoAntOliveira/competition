@@ -1,0 +1,2 @@
+- também especifico da task detectar a base de destino
+- e calcular o quanto deve se mover com visao computacional

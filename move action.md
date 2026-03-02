@@ -1,0 +1,1 @@
+- o drone deve realizar o movimento até as coordenadas recbidas

@@ -1,0 +1,1 @@
+- realizar a detecção da linha de transmissão cujo a esfera esta pendurada e levar o gancho até esta linha

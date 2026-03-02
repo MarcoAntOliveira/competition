@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "5e26039036338a3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "950592642fc728c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67fc3ca9f76595dc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "task1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "task1"
+            }
+          },
+          {
+            "id": "54d5c078f3508eed",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "task1.canvas",
+                "viewState": {
+                  "x": -142.0438032482649,
+                  "y": -374.2096284159076,
+                  "zoom": -0.40000000000000013
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "task1"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36d9ed8e93525d71",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d7655e3961228a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7ad972081782200",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f11597fc68ccd593",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "33e08cc49b6ec0a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4f5fcbddc4394bce",
+    "type": "split",
+    "children": [
+      {
+        "id": "11dbcff6ac8c2636",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a90b86e389aff2f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "task3.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for task3"
+            }
+          },
+          {
+            "id": "3b739a8ac8eb58cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "task3.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from task3"
+            }
+          },
+          {
+            "id": "3b246500691897d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "32709a44d4c86d3d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "11f485dc6cac8a62",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "task3.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of task3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "54d5c078f3508eed",
+  "lastOpenFiles": [
+    "task3.canvas",
+    "select service.md",
+    "task2.canvas",
+    "task1.canvas",
+    "move action.md",
+    "Untitled.md",
+    "sphere action.md",
+    "Regulamento_EletroQuad_2026_portugues_rev2.0.pdf",
+    "base action.md",
+    "aruco action.md",
+    "altura action.md",
+    "Arm service.md"
+  ]
+}

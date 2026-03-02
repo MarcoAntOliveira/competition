@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"f69072266eb23a0f","type":"text","text":"[[Arm service]]","x":-460,"y":-540,"width":250,"height":60},
+		{"id":"6820ed212500db41","type":"text","text":"[[altura action]]","x":-140,"y":-420,"width":250,"height":60},
+		{"id":"2881e6aaf86d2508","type":"text","text":"[[move action]]","x":700,"y":-300,"width":250,"height":60},
+		{"id":"7f062a06dcc570ce","x":240,"y":-300,"width":250,"height":60,"type":"text","text":"[[select service]]"}
+	],
+	"edges":[
+		{"id":"6c3f317f036968a0","fromNode":"f69072266eb23a0f","fromSide":"right","toNode":"6820ed212500db41","toSide":"left"},
+		{"id":"c609298dfdd865a1","fromNode":"6820ed212500db41","fromSide":"right","toNode":"7f062a06dcc570ce","toSide":"left"},
+		{"id":"2ddaff2c0b335a16","fromNode":"2881e6aaf86d2508","fromSide":"bottom","toNode":"7f062a06dcc570ce","toSide":"bottom"},
+		{"id":"2ae825b547a91ed7","fromNode":"7f062a06dcc570ce","fromSide":"top","toNode":"2881e6aaf86d2508","toSide":"top"}
+	]
+}

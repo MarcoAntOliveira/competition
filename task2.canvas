@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"565d44c342315aea","type":"text","text":"[[Arm service]]","x":-1040,"y":-960,"width":250,"height":60},
+		{"id":"a65d1614f13320fb","type":"text","text":"[[sphere action]]","x":-720,"y":-840,"width":250,"height":60},
+		{"id":"6dcbc02c32e36849","x":-360,"y":-780,"width":250,"height":60,"type":"text","text":"[[move action]]"},
+		{"id":"e95ab0521b96d3fa","x":-20,"y":-720,"width":250,"height":60,"type":"text","text":"[[release action]]"}
+	],
+	"edges":[
+		{"id":"28af782234c7c9f8","fromNode":"565d44c342315aea","fromSide":"right","toNode":"a65d1614f13320fb","toSide":"left"},
+		{"id":"d5c2e67ac0daead0","fromNode":"a65d1614f13320fb","fromSide":"right","toNode":"6dcbc02c32e36849","toSide":"left"},
+		{"id":"b78a3b13fcd2ce65","fromNode":"6dcbc02c32e36849","fromSide":"right","toNode":"e95ab0521b96d3fa","toSide":"left"}
+	]
+}

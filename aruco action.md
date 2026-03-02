@@ -1,0 +1,1 @@
+- especifico da task1 , o drone deve detectar o aruco e fazer reconhcimento do numero
